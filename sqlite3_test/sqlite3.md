@@ -11,8 +11,11 @@ no diretorio onde queres a .db
 # exemplo
 
   > CREATE TABLE names (
+  
   >   ...> ID INT PRIMARY KEY NOT NULL,
+  
   >   ...> NAME TEXT NOT NULL
+  
   >   ...> );
 
 > .schema names # estrutura da tabela
