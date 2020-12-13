@@ -10,10 +10,13 @@ no diretorio onde queres a .db
 
 # exemplo
 
-> CREATE TABLE names (
->   ...> ID INT PRIMARY KEY NOT NULL,
->   ...> NAME TEXT NOT NULL
->   ...> );
+  > CREATE TABLE names (
+  
+  >   ...> ID INT PRIMARY KEY NOT NULL,
+  
+  >   ...> NAME TEXT NOT NULL
+  
+  >   ...> );
 
 > .schema names # estrutura da tabela
 
@@ -23,6 +26,7 @@ no diretorio onde queres a .db
 # importar csv
 
 > .mode csv
+
 > .import file_name.csv table_name
 
 
