@@ -1,4 +1,4 @@
-# SDIS_client_server
+# [SDIS] Event-based sever using threads - Group H
 
 [Final source code](https://github.com/diogoteixeira1998/SDIS_client_server/tree/main/SourceCode_finalVersion)
 
